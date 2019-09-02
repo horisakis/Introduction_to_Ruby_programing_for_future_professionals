@@ -12,3 +12,5 @@ gem "minitest", "~> 5.10", :group => :development
 
 
 gem "solargraph", :group => :development
+
+gem "byebug", "~> 11.0", :group => :development
